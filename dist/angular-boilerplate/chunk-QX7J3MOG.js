@@ -1,0 +1,1 @@
+import{c as o}from"./chunk-YGFNLDZQ.js";var t=[{path:"",title:"Profile",loadComponent:()=>o(void 0,null,function*(){return(yield import("./chunk-KLWRHQQL.js")).ProfileComponent})}];export{t as routes};

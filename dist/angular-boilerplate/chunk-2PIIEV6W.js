@@ -1,0 +1,2 @@
+import{Ga as o,Ma as i,S as n,mb as s}from"./chunk-MYZAF57T.js";import"./chunk-YGFNLDZQ.js";var p=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["ng-component"]],standalone:!0,features:[i],decls:1,vars:0,template:function(e,r){e&1&&o(0,`Accessibility works!
+`)},dependencies:[s],encapsulation:2})}}return t})();export{p as AccessibilityComponent};
